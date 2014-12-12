@@ -1,2 +1,1 @@
-euclid
-======
+Project for Math 163
